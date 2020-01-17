@@ -1,0 +1,15 @@
+
+body {background-color:blanchedalmond;}
+    h1 {color:thistle; text-align: center;}
+    #one {font-family: Verdana, Geneva, Tahoma, sans-serif; font-size:small}
+    #two {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: small;}
+            
+    .container {position: relative; text-align: center; color: black;}
+    .centered {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
+
+    p.dotted {border-style:dotted;}
+
+    span {float:left; width:0.7em; font-size:400%; font-family:courier; line-height:80%;}
+
+    #rcorners {border-radius: 25px; border: 2px solid #73AD21; padding: 20px; width: 200px; height: 150px;}
+    
